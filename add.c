@@ -5,5 +5,5 @@ void main(){
     printf("Enter any two numbers")
     scanf("%d %d",&a,&b);
     result=a+b;
-    printf(result)
+    printf("result of Two numbers "+result);
 }
