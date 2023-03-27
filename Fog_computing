@@ -1,2 +1,3 @@
 Fog computing is an emerging paradigm.Fog computing was introduced by CISCO to overcome the limitations of the Cloud.
-The limitastions of cloud are low latency,Bandwidth consumption etc.
+The limitations of cloud are low latency,high Bandwidth, High energy consumption etc.
+Fog provides compuatations at the edge of the network.It provides the same services which Cloud provides.
