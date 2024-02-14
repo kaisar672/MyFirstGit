@@ -1,0 +1,1 @@
+This is python file where i have used list of fruits and are printing them.
