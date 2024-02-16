@@ -5,5 +5,6 @@ for  x in fruits:
 print(fruits)
 print("Third commit")
 print("diff commit")
+print("this is python syntax")
 
   
